@@ -26,7 +26,7 @@ Commit
 Update README.md
  main
 @rishavchanda
-rishavchanda committed on Apr 20 
+Nikita Nikose committed on Apr 20 
 1 parent cb06551
 commit 77932a1
 Showing 1 changed file with 2 additions and 2 deletions.
