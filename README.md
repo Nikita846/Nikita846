@@ -9,9 +9,8 @@ Nikita846/Nikita846 is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 Skip to content
-rishavchanda
-/
-rishavchanda
+Nikita Nikose
+
 
 Type / to search
 
@@ -35,15 +34,15 @@ Showing 1 changed file with 2 additions and 2 deletions.
 README.md
 @@ -1,14 +1,14 @@
 [![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rishav Chanda</h1>
+<h1 align="center">Hi 👋, I'm Nikita Nikose</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">A passionate FullStack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="Nikita Nikose" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rishavchanda" target="blank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
+ank"><img src="https://img.shields.io/twitter/follow/rishavchanda?logo=twitter&style=for-the-badge" alt="rishavchanda" /></a> </p>
 
 - 🔭 I’m currently working on **Buckoid Android App**
 - 🔭 I’m currently working on **Vexa Web App**
@@ -71,4 +70,4 @@ API
 Training
 Blog
 About
-Update README.md · rishavchanda/rishavchanda@77932a1
+Update README.md · nikitanikose41@gmail.com
